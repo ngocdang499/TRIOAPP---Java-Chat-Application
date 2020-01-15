@@ -1,0 +1,11 @@
+.button {
+    -fx-background-color: transparent;
+    -fx-graphic-text-gap: 20px;
+    -fx-font-size: 16px;
+    -fx-text-fill: #ffffff;
+    -fx-font-family: System;
+    -fx-pref-width: 230;
+    -fx-pref-height: 60;
+
+}
+
