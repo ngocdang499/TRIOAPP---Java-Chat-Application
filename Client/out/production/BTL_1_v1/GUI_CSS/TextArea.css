@@ -1,0 +1,72 @@
+.text-area .content{
+    -fx-background-color: #fefefe;
+    -fx-border-color: transparent;
+    -fx-border-width: 1.8;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+}
+
+.text-area {
+    -fx-text-fill: #040404;
+    -fx-font-size: 14;
+    -fx-border-color: transparent;
+    -fx-background-color: #afafaf;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+}
+
+.text-area .scroll-bar:horizontal .track,
+.text-area .scroll-bar:vertical .track{
+    -fx-background-color: transparent;
+    -fx-border-color: #cccccc;
+
+
+}
+
+/* The main scrollbar **track** CSS class  */
+.text-area .scroll-bar:horizontal .track,
+.text-area .scroll-bar:vertical .track{
+	-fx-background-color: #efefef;
+	-fx-border-color: #efefef;
+
+}
+
+.text-area .scroll-bar:horizontal .increment-button ,
+.text-area .scroll-bar:horizontal .decrement-button {
+    -fx-background-color: #efefef;
+	-fx-background-radius: 0;
+	-fx-padding:0 0 10 0;
+
+
+}
+
+/* The increment and decrement button CSS class of scrollbar */
+
+.text-area .scroll-bar:vertical .increment-button ,
+.text-area .scroll-bar:vertical .decrement-button {
+
+    -fx-background-color: #efefef;
+	-fx-background-radius: 0em;
+	-fx-padding:0 10 0 0;
+
+}
+
+/* The main scrollbar **thumb** CSS class which we drag every time (movable) */
+.text-area .scroll-bar:horizontal .thumb,
+.text-area .scroll-bar:vertical .thumb {
+    -fx-background-color:derive(black,70%);
+	-fx-background-insets: 2, 0, 0;
+	-fx-background-radius: 8;
+
+}
+
+.text-area  .scroll-bar .increment-arrow,
+.text-area  .scroll-bar .decrement-arrow
+ {
+	-fx-shape: " ";
+	-fx-padding:0;
+}
+
+
+
+

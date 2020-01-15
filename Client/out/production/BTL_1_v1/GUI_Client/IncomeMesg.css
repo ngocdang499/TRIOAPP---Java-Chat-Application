@@ -1,0 +1,14 @@
+.label {
+    -fx-font-family: Lato Heavy;
+    -fx-font-size: 14px;
+    -fx-fill: #000000;
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-border-color: #7ed6fd;
+    -fx-border-width: 1.5;
+    -fx-max-width: 400px;
+    -fx-wrap-text: true;
+    -fx-padding: 8 8 8 10;
+    -fx-word-wrap: break-word;
+    -fx-background-color: #ffffff;
+}

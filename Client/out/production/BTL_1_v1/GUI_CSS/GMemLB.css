@@ -1,0 +1,9 @@
+.label{
+    -fx-alignment: CENTER;
+    -fx-text-fill: #2D648D;
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-background-color: yellow;
+    -fx-padding: 8 8 8 10;
+    -fx-word-wrap: break-word;
+}
