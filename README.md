@@ -9,5 +9,5 @@ Client app also provides function for messaging, sending large files (**mostly a
 
 An *addition chat app version for web* is also available in order to provide customer service where customer may chat on producer's website and ask for support from the Admin ( who will be doing his job through the desktop app with a provide Admin account)
 
-![App](/images/TrioApp.png)
+![App](/TrioApp.png)
 
