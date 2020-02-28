@@ -1,7 +1,7 @@
 # TRIOAPP---Java-Chat-Application
 This application is built for a side project of the course Computer Network at HCMUT
 
-The application include a desktop app for clients to chat peer-to-peer with a friendly user interface and a chat server.
+The application includes a desktop app for clients to chat peer-to-peer with a friendly user interface and a chat server.
 The server will handle requests for *log in, register* and return the *friends list* for each successful account log-in.
 
 The client can view the list of user (including users's online, offline status).
